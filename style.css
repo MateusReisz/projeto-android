@@ -123,6 +123,12 @@ main p{
     padding: 10px;
     border-radius: 10px;
 }
+.foto{
+    position: relative;
+}
+.foto > source{
+    position: absolute;
+}
 
 .video{
     background-color: rgb(99, 201, 99);
