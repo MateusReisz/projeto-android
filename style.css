@@ -123,17 +123,6 @@ main p{
     padding: 10px;
     border-radius: 10px;
 }
-.foto{
-    position: relative;
-}
-.ft{
-    position: absolute;
-
-    left: 10%;
-    top: 10%;
-
-    transform: translate(-50%, -50%);
-}
 
 .video{
     background-color: rgb(99, 201, 99);
